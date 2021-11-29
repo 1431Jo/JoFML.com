@@ -5,7 +5,6 @@ html {
 }
 body {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-    font-size: 14px;
     line-height: 1.5;
     color: #fff;
     background-color: #1a202c;
@@ -32,8 +31,7 @@ body {
     padding-left: 16px !important;
 }
 .my-5 {
-    margin-top: 32px !important;
-    margin-bottom: 32px !important;
+    margin-top: -25px !important;
 }
 .markdown-body::before {
     display: table;
@@ -84,4 +82,7 @@ h1 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+}
+.aboutme {
+    color: white;
 }
