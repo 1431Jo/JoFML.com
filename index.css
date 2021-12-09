@@ -1,4 +1,14 @@
 .pic1 {
     width: 40px;
     height: 40px;
+    right: 40%;
+}
+.headername {
+    font-size: 35px;
+    font-weight: bold;
+    display: -webkit-flex;
+    display: flex;
+}
+.header {
+    height: 100%;
 }
